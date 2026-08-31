@@ -1,4 +1,4 @@
-Promedio_de_Examenes_Cortos_Promedio_Final
+Promedio_de_Examenes_Cortos,Promedio_Final
 59,64
 92,84
 72,77
